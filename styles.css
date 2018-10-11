@@ -1,0 +1,26 @@
+/* styling for the grid itself */
+#grid {
+  display: grid;
+  grid-template-rows: repeat(5, minmax(100px, 1fr));
+  grid-template-columns: repeat(5, minmax(100px, 1fr));
+}
+
+
+.grid-item {
+  color: #fff;
+  padding: .2em;
+  background: #004D40;
+  border-radius: 5px;
+  border: 1px solid #fff;
+  text-align: center;
+  line-height: 100px;
+}
+
+img {
+  max-width:100%;
+  max-height:100%;
+}
+
+img.trophy {
+    z-index: 999999;
+}
