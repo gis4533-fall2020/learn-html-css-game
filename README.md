@@ -12,6 +12,9 @@ Here is how you play:
 First one to make it to the trophy wins!  
 Follow the live gameboard here: https://gis4533-fall2020.github.io/learn-html-css-game/
 
+# UPDATE
+We've got a winner!! piping plover :bird: (aka @johnzmyslony) has claimed the :trophy:
+
 ### Some Notes  
 - Make sure to use the Github Desktop application available in APPS4U
 - Make sure you use your personal storage on the W drive for this, or else the files in your repository won’t last beyond this session.
